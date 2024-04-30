@@ -41,4 +41,4 @@ This project is licensed under Creative Commons License - see the LICENSE file f
 
 ## Acknowledgements
 
-We acknowledge the contributions and support from our lecture Sebastian Karcher. Special thanks to all the contributors who have made this project possible.
+We acknowledge the contributions and support from our LIS 546 course instructor Sebastian Karcher. Special thanks to all the contributors who have made this project possible.
