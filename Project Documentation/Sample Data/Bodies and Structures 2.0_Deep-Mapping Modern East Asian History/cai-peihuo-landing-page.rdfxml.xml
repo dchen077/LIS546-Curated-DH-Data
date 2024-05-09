@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:prov="http://www.w3.org/ns/prov#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:iptc="http://ns.exiftool.ca/IPTC/IPTC/1.0/">
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Composite"/>
+    <scalar:isLive>1</scalar:isLive>
+    <scalar:background>http://scalar.usc.edu/works/bodies-and-structures-alpha/media/route of tour of inspection cai peihuo.jpeg</scalar:background>
+    <scalar:banner>media/route of tour of inspection cai peihuo.jpeg</scalar:banner>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2020-04-30T18:05:24-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:16697"/>
+    <scalar:version rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.15"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.15"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.14"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.13"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.12"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.11"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.10"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.9"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.8"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.7"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.6"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.5"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.4"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.3"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.2"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.1"/>
+    <scalar:citation>method=node/cai-peihuo-landing-page;methodNumNodes=1;</scalar:citation>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.15">
+    <ov:versionnumber>15</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;note&quot; rev=&quot;scalar:has_note&quot; resource=&quot;references-mcdonald&quot; data-show-title=&quot;yes&quot; data-show-description=&quot;no&quot; data-show-content=&quot;yes&quot;&gt;Click here for a list of references for this module&lt;/span&gt;, which is also available from the module&amp;#39;s Conclusion page.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-12-17T12:47:34-05:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:73277"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.14"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.14">
+    <ov:versionnumber>14</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;note&quot; rev=&quot;scalar:has_note&quot; resource=&quot;references-mcdonald&quot; data-show-title=&quot;yes&quot; data-show-description=&quot;no&quot; data-show-content=&quot;yes&quot;&gt;Click here for a list of references for this module&lt;/span&gt;, which is also available from the module&amp;#39;s Conclusion page.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-10-08T16:55:10-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:72863"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.13"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.15"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.13">
+    <ov:versionnumber>13</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;note&quot; rev=&quot;scalar:has_note&quot; resource=&quot;references-mcdonald&quot; data-show-title=&quot;yes&quot; data-show-description=&quot;no&quot; data-show-content=&quot;yes&quot;&gt;Click here for a list of references for this module&lt;/span&gt;, which is also available from the module&amp;#39;s Conclusion page.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-10-08T16:54:30-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:72862"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.12"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.14"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.12">
+    <ov:versionnumber>12</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;note&quot; rev=&quot;scalar:has_note&quot; resource=&quot;references-mcdonald&quot; data-show-title=&quot;yes&quot; data-show-description=&quot;no&quot; data-show-content=&quot;yes&quot;&gt;Click here for a list of references for this module&lt;/span&gt;, which is also available from the module&amp;#39;s Conclusion page.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-06-22T17:33:33-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:71127"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.11"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.13"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.11">
+    <ov:versionnumber>11</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-04-27T17:55:33-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69516"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.10"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.12"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.10">
+    <ov:versionnumber>10</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>4897</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-04-25T20:53:57-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69430"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.9"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.11"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.9">
+    <ov:versionnumber>9</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-04-04T13:05:59-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68713"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.8"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.10"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.8">
+    <ov:versionnumber>8</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-04-04T13:05:41-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68712"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.7"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.9"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>35.6833, 139.7833</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>22.9908, 120.2133</dcterms:spatial>
+    <dcterms:spatial>Fukuoka</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:spatial>29.43367, 106.91027</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.7">
+    <ov:versionnumber>7</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-04-02T17:20:56-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68685"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.6"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.8"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>Taipei</dcterms:spatial>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>29.5628, 106.5528</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.6">
+    <ov:versionnumber>6</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-04-02T15:26:09-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68679"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.5"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.7"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>Taipei</dcterms:spatial>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>29.5628, 106.5528</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.5">
+    <ov:versionnumber>5</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-03-27T19:56:50-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68276"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.4"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.6"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>Taipei</dcterms:spatial>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:spatial>35.7500, 139.500</dcterms:spatial>
+    <dcterms:spatial>36.10677, 140.10191</dcterms:spatial>
+    <dcterms:spatial>35.70874, 139.71967</dcterms:spatial>
+    <dcterms:spatial>33.62665, 130.42502</dcterms:spatial>
+    <dcterms:spatial>31.2222, 121.4581</dcterms:spatial>
+    <dcterms:spatial>Shanghai</dcterms:spatial>
+    <dcterms:spatial>29.5628, 106.5528</dcterms:spatial>
+    <dcterms:spatial>Chongqing</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.4">
+    <ov:versionnumber>4</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-03-27T17:36:25-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:68270"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.3"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.5"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:spatial>Tainan</dcterms:spatial>
+    <dcterms:spatial>Taipei</dcterms:spatial>
+    <dcterms:spatial>Tōkyō</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>5385</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/41"/>
+    <dcterms:created>2021-03-04T13:33:28-05:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:67388"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.2"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.4"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>396</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2020-07-20T17:50:47-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:58395"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.1"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.3"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:spatial>Taiwan</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.1">
+    <ov:versionnumber>1</ov:versionnumber>
+    <dcterms:title>Cai Peihuo's Inner Territory</dcterms:title>
+    <dcterms:description>Kate McDonald</dcterms:description>
+    <sioc:content>&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;I am very disappointed in the 180,000 people of the mother country who have moved to Taiwan &amp;ndash; the bureaucrats, the people, the propertied and propertyless&amp;hellip;. But I have great trust and hope in the masses of the Japanese metropole.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Thus begins Cai Peihuo&amp;#39;s (蔡培火) 1928 manifesto, &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; (To the people of the Japanese metropole). The manifesto introduced metropolitan Japanese readers to the discriminatory structures, policies, and practices that constrained the lives of Taiwanese Chinese and indigenous people in Taiwan. Cai published it in 1928, three years after the passage of the Universal Suffrage Act and on the eve of the first national post-universal suffrage election in the metropole. He spoke directly to the newly enfranchised masses: granting self-rule for Taiwan was the only reasonable response to the inequities of colonial rule.&lt;/p&gt;&lt;p&gt;Judged from the perspective of Cai&amp;rsquo;s own goals, the manifesto did not have its intended impact. Newly enfranchised Japanese voters did not take to the polls to reform the uneven structure of the Japanese Empire. Instead, in the years following the manifesto&amp;rsquo;s publication, the central government fixed the empire even more firmly in place. Imperial rhetoric that envisaged the eventual assimilation of Taiwan into Japan gave way. By the 1930s, the dominant narrative of Japan-Taiwan relations emphasized the immutable cultural difference between the two peoples.&lt;/p&gt;&lt;p&gt;The manifesto tells a tale larger than its failure, however. 1928 marked a watershed moment in the history of the Japanese Empire. The year of the first post-universal (male) suffrage election for seats in the Imperial Diet, it was also the first national election in which voting rights were determined by place of residence. Such a change created new opportunities for anticolonial liberal movements, which in Korea drew common cause with Japanese colonial residents against the exclusion of colonial residents from the franchise. It also lent new power to direct appeals to the Japanese voting public. Anticolonial populist appeals challenged the power of the &amp;ldquo;vested interests&amp;rdquo; of state and capital over ordinary people in Japan, Korea, and Taiwan. &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; is one such example.&lt;/p&gt;&lt;p&gt;This module explores &lt;em&gt;Nihon honkokumin ni atau&lt;/em&gt; in three ways &amp;mdash; as a story of anticolonial activism between metropole and colony; as an act of settler colonialism; and as an artifact of colonial mobility. The main pathway analyzes how Cai used imaginative geography to construct a claim for self rule in Taiwan that would appeal to Japanese people in the metropole. Sub-pathways unfold to illuminate the blind spots in Cai&amp;rsquo;s own imaginative geography, and to show how the circumstances behind the manifesto&amp;rsquo;s production shaped Cai&amp;rsquo;s contradictory message about the relationship between spatial identity and political freedom in the Japanese Empire. Shying away from a demand for independence and ignoring the dehumanizing violence of the colonial state&amp;rsquo;s dispossession of indigenous peoples, Cai&amp;rsquo;s argument for self rule in Taiwan never escaped the logic of empire.&lt;/p&gt;&lt;p&gt;Cover images: Cai Peihuo, Wikimedia Commons; &amp;quot;Route of a Tour of Inspection,&amp;quot; East Asia Digital Image Collection, image ip0380, Lafayette College Libraries, Easton, PA.&lt;/p&gt;</sioc:content>
+    <scalar:defaultView>image_header</scalar:defaultView>
+    <scalar:continue_to_content_id>396</scalar:continue_to_content_id>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2020-04-30T18:05:24-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:31109"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/cai-peihuo-landing-page.2"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <dcterms:spatial>23.00053, 120.20171</dcterms:spatial>
+    <dcterms:spatial>25.03296, 121.56542</dcterms:spatial>
+    <dcterms:spatial>35.7197, 139.73742</dcterms:spatial>
+    <dcterms:temporal>1928</dcterms:temporal>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <dcterms:subject>Cai Peihuo.</dcterms:subject>
+  </rdf:Description>
+
+</rdf:RDF>

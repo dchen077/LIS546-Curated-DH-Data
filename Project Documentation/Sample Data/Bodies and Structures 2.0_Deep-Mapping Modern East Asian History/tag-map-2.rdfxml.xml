@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:scalar="http://scalar.usc.edu/2012/01/scalar-ns#"
+  xmlns:prov="http://www.w3.org/ns/prov#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:iptc="http://ns.exiftool.ca/IPTC/IPTC/1.0/">
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2">
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Composite"/>
+    <scalar:isLive>1</scalar:isLive>
+    <scalar:banner>media/BS2.Images.TagMap.EntryPoint.png</scalar:banner>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2019-11-18T19:08:06-05:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:content:5388"/>
+    <scalar:version rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.11"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.11"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.10"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.9"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.8"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.7"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.6"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.5"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.4"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.3"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.2"/>
+    <dcterms:hasVersion rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.1"/>
+    <scalar:citation>method=node/tag-map-2;methodNumNodes=1;</scalar:citation>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.11">
+    <ov:versionnumber>11</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>Explore concepts</dcterms:description>
+    <sioc:content>You can also visit the &lt;a target=&quot;_blank&quot; href=&quot;static-tag-index&quot;&gt;Static Tag Index&lt;/a&gt; to see the tags as a hyperlinked list.</sioc:content>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-10-28T13:59:11-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:72998"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.10"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+    <iptc:Writer-Editor>Kate McDonald</iptc:Writer-Editor>
+    <iptc:Writer-Editor>David R. Ambaras</iptc:Writer-Editor>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.10">
+    <ov:versionnumber>10</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>Explore concepts</dcterms:description>
+    <sioc:content>You can also visit the &lt;a target=&quot;_blank&quot; href=&quot;static-tag-index&quot;&gt;Static Tag Index&lt;/a&gt; to see the tags as a hyperlinked list.</sioc:content>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-06-23T13:20:04-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:71164"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.9"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.11"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.9">
+    <ov:versionnumber>9</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>Explore concepts</dcterms:description>
+    <sioc:content>You can also visit the &lt;a target=&quot;_blank&quot; href=&quot;static-tag-index&quot;&gt;Static Tag Index&lt;/a&gt; to see the tags as a list and open each as link.</sioc:content>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-06-23T13:18:58-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:71163"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.8"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.10"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.8">
+    <ov:versionnumber>8</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>Explore concepts</dcterms:description>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-05-04T14:16:12-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69710"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.7"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.9"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.7">
+    <ov:versionnumber>7</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>A Conceptual Map of Bodies and Structures 2.0</dcterms:description>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-05-04T14:03:48-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69704"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.6"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.8"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.6">
+    <ov:versionnumber>6</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <dcterms:description>Tag Map for 2.0 -  [Expand the description a bit so that it provides more detail to main menu viewers]</dcterms:description>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/3"/>
+    <dcterms:created>2021-04-29T22:55:17-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69600"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.5"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.7"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.5">
+    <ov:versionnumber>5</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-04-23T14:57:30-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69385"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.4"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.6"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.4">
+    <ov:versionnumber>4</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2021-04-23T14:52:27-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:69383"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.3"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.5"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.3">
+    <ov:versionnumber>3</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2020-10-16T15:47:39-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:62627"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.2"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.4"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.2">
+    <ov:versionnumber>2</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2020-04-27T17:59:23-04:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:27855"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:replaces rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.1"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.3"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.1">
+    <ov:versionnumber>1</ov:versionnumber>
+    <dcterms:title>Tag Map</dcterms:title>
+    <scalar:defaultView>vistag</scalar:defaultView>
+    <prov:wasAttributedTo rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/users/5"/>
+    <dcterms:created>2019-11-18T19:08:06-05:00</dcterms:created>
+    <scalar:urn rdf:resource="urn:scalar:version:15810"/>
+    <dcterms:isVersionOf rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2"/>
+    <dcterms:isReplacedBy rdf:resource="https://bodiesandstructures.org/bodies-and-structures-2/tag-map-2.2"/>
+    <rdf:type rdf:resource="http://scalar.usc.edu/2012/01/scalar-ns#Version"/>
+  </rdf:Description>
+
+</rdf:RDF>
