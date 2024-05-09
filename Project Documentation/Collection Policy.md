@@ -2,7 +2,7 @@ Collection Policy for Best Practices of DH in Chinese and Japanese studies Proje
 
 1. Relevance Criteria for Data Collection
 Inclusion Criteria:
-- Thematic and Temporal Scope: Data must be related to scholarly contributions on modern and contemporary (post-1900) history, literature, art history, religion, society and thought of China and Japan. 
+- Thematic and Temporal Scope: Data must be related to scholarly contributions on modern and contemporary (post-1900) history, literature, art history, religion, society and thought of Chinese and Japanese studies. 
 - Academic Value: Data should offer potential for scholarly research, teaching, or broader dissemination within the field of digital humanities.
 Exclusion Criteria:
 - Out-of-Scope Themes: Data and its associated research focusing on periods before 1900 or unrelated to thematic and temporal scope. 
