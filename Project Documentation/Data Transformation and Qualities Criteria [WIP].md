@@ -7,10 +7,16 @@ Data Transfer
 How will users or curators upload data to your repository? 
 
 Users and curators will submit their digital humanities projects via our GitHub link.This approach allows contributors to submit projects by pushing their repositories to our designated GitHub organization page, where they can be reviewed and integrated into our broader collection. Upon submission, contributors will be required to fill out a detailed survey about their project. This survey will include questions about the content, scope, relevance to modern and contemporary Chinese and Japanese studies, and any sensitive or confidential information contained within their data. 
+
 What kind of authenticity checks would you perform to make sure this data is what it purports to be? Does this include any virus scanning tools?
+
 Upon receipt of data from GitHub, several steps will be taken to verify its authenticity and ensure its safety and relevance:
+
 Virus Scanning: With possible funding, we will perform a virus scan on all submitted files using robust antivirus software such as McAfee or Norton Antivirus. This is crucial to prevent the introduction of malware into our repository.
-File Integrity Checks: We will rely on GitHub to maintain the integrity of files through version control, and ensure no corruption has occurred during the download process.
+
+File Integrity Checks: We will rely on GitHub to maintain the integrity of files through version control, and ensure no 
+corruption has occurred during the download process.
+
 Content Verification Survey: Contributors will complete a detailed survey that includes verification of the authenticity and appropriateness of the content. This survey will ask specific questions about the sources of their data, any transformations it has undergone, and how it aligns with the project's focus on Chinese and Japanese digital humanities.
 
 How will you identify confidential, sensitive, or private information contained in this data? (in other words, What constitutes private or sensitive information? 
@@ -24,14 +30,17 @@ All actions taken to manage sensitive data (redaction, restriction, encryption) 
 How will you apply an identifier to each data collection? What kind? Why?
 
 Each data collection submitted through GitHub will be assigned a unique Digital Object Identifier (DOI). DOIs are persistent identifiers used widely across academic publications, which make digital content easily locatable and citable over the long term. 
+***Be more specific, see sample data for example, add more***
 
 What additional metadata (beyond what the depositor provides) should be created at the point of data being transferred to your stewardship?
 
 We will create additional metadata about the origin of the data, the methodology used to collect it, any changes made by the original researchers, and the context in which it was gathered. To easily locate each individual file, we will create metadata of where the file is located and which dataset collection it belongs to. 
+***Add***
 
 Is there any additional documentation that should be created in order to meaningfully preserve or use this data?
 
 We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. 
+***add***
 
 Data Transformation
 
@@ -68,6 +77,8 @@ Data Values
 
 What steps should be taken to normalize the data? (hint: You could go through something like common transforms in Refine and come 
 up with an easy (and exhaustive) template). Consider common transformations like: consistent column (variable) names, developing a data dictionary for each dataset, standardizing values for missing or null values, labeling values (by type - e.g. text, number, boolean, categorical, etc.)
+
+***Add more language specific approaches***
 
 Here’s how we will approach the normalization process:
 
