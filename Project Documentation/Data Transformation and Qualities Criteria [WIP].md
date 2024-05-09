@@ -31,7 +31,7 @@ How will you apply an identifier to each data collection? What kind? Why?
 
 Each data collection submitted through GitHub will be assigned a unique Digital Object Identifier (DOI). DOIs are persistent identifiers used widely across academic publications, which make digital content easily locatable and citable over the long term. 
 
-***Be more specific, see sample data for example, add more***
+> ***Be more specific, see sample data for example, add more***
 
 What additional metadata (beyond what the depositor provides) should be created at the point of data being transferred to your stewardship?
 
@@ -43,7 +43,7 @@ Is there any additional documentation that should be created in order to meaning
 
 We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. 
 
-***add***
+> ***Add***
 
 Data Transformation
 
@@ -81,7 +81,7 @@ Data Values
 What steps should be taken to normalize the data? (hint: You could go through something like common transforms in Refine and come 
 up with an easy (and exhaustive) template). Consider common transformations like: consistent column (variable) names, developing a data dictionary for each dataset, standardizing values for missing or null values, labeling values (by type - e.g. text, number, boolean, categorical, etc.)
 
-***Add more language specific approaches***
+> ***Add more language specific approaches***
 
 Here’s how we will approach the normalization process:
 
