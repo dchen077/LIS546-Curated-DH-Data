@@ -30,16 +30,19 @@ All actions taken to manage sensitive data (redaction, restriction, encryption) 
 How will you apply an identifier to each data collection? What kind? Why?
 
 Each data collection submitted through GitHub will be assigned a unique Digital Object Identifier (DOI). DOIs are persistent identifiers used widely across academic publications, which make digital content easily locatable and citable over the long term. 
+
 ***Be more specific, see sample data for example, add more***
 
 What additional metadata (beyond what the depositor provides) should be created at the point of data being transferred to your stewardship?
 
 We will create additional metadata about the origin of the data, the methodology used to collect it, any changes made by the original researchers, and the context in which it was gathered. To easily locate each individual file, we will create metadata of where the file is located and which dataset collection it belongs to. 
+
 ***Add***
 
 Is there any additional documentation that should be created in order to meaningfully preserve or use this data?
 
 We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. 
+
 ***add***
 
 Data Transformation
