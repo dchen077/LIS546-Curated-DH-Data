@@ -51,7 +51,7 @@ Text Data: Plain text (UTF-8 encoding), XML (with included or accessible schema)
 
 Images: TIFF (uncompressed) for archival quality and PNG for general use.
 
-Tabular Data: CSV for its simplicity and wide support in data tools.
+Tabular Data: CSV and XLS for their simplicity and wide support in data tools.
 
 See our collection policy for additional information on accepted file formats. 
 
