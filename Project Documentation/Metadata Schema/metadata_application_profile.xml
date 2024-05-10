@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadataApplicationProfile xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadataSchema>
+        <!-- Title -->
+        <element>
+            <name>Title</name>
+            <namespace>dc:title</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>Title should be provided in English, Chinese, and Japanese where applicable.</rulesForContent>
+            <example>
+                <dc:title xml:lang="en">Open Empire: Yokohama Port and Imperial Japan</dc:title>
+                <dc:title xml:lang="ja">開かれた帝国：横浜港と帝国日本</dc:title>
+            </example>
+        </element>
+        
+        <!-- Creator -->
+        <element>
+            <name>Creator</name>
+            <namespace>dc:creator</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>Name of the individual or organization primarily responsible for creating the dataset.</rulesForContent>
+            <example>
+                <dc:creator>Dr. Hiroshi Tanaka</dc:creator>
+            </example>
+        </element>
+        
+        <!-- Subject -->
+        <element>
+            <name>Subject</name>
+            <namespace>dc:subject</namespace>
+            <status>Optional</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>Keywords or phrases summarizing the content; use controlled vocabulary where possible.</rulesForContent>
+            <example>
+                <dc:subject>Imperial Japan; Yokohama; Trade</dc:subject>
+            </example>
+        </element>
+        
+        <!-- Description -->
+        <element>
+            <name>Description</name>
+            <namespace>dc:description</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>Abstract or summary of the dataset in both English and local languages.</rulesForContent>
+            <example>
+                <dc:description xml:lang="en">This module explores the role of Yokohama port in the development of Imperial Japan, focusing on its impact on trade and international relations.</dc:description>
+            </example>
+        </element>
+        
+        <!-- Date -->
+        <element>
+            <name>Date</name>
+            <namespace>dc:date</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>W3CDTF</encodingScheme>
+            <rulesForContent>Date or range of dates associated with the dataset creation or its content.</rulesForContent>
+            <example>
+                <dc:date>2024-05-01</dc:date>
+            </example>
+        </element>
+        
+        <!-- Type -->
+        <element>
+            <name>Type</name>
+            <namespace>dc:type</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>The nature or genre of the content; use a controlled vocabulary.</rulesForContent>
+            <example>
+                <dc:type>Interactive Map</dc:type>
+            </example>
+        </element>
+        
+        <!-- Format -->
+        <element>
+            <name>Format</name>
+            <namespace>dc:format</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>IMT</encodingScheme>
+            <rulesForContent>The file format, physical medium, or dimensions of the resource.</rulesForContent>
+            <example>
+                <dc:format>text/html</dc:format>
+            </example>
+        </element>
+        
+        <!-- Language -->
+        <element>
+            <name>Language</name>
+            <namespace>dc:language</namespace>
+            <status>Mandatory</status>
+            <encodingScheme>RFC4646</encodingScheme>
+            <rulesForContent>Language of the resource content.</rulesForContent>
+            <example>
+                <dc:language xsi:type="dcterms:RFC4646">ja</dc:language>
+                <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+            </example>
+        </element>
+        
+        <!-- Coverage -->
+        <element>
+            <name>Coverage</name>
+            <namespace>dc:coverage</namespace>
+            <status>Optional</status>
+            <encodingScheme>string</encodingScheme>
+            <rulesForContent>The geographical area or period that the content pertains to.</rulesForContent>
+            <example>
+                <dc:coverage>Yokohama, Japan</dc:coverage>
+            </example>
+        </element>
+        
+    </metadataSchema>
+</metadataApplicationProfile>
+
+
