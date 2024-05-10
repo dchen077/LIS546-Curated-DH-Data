@@ -1,9 +1,1 @@
-[To be edited; temp.]
-
-Data Dictionary
-
-SBD: Singapore Biographical Database
-
-A: Raw
-
-001: DOI
+SBDB_Biographical_Information belongs to Singapore Biograhical Database. The original [file](https://github.com/chsshgis/Singapore-Biographical-Database/blob/master/%E4%BA%BA%E7%89%A9%E6%95%B0%E6%8D%AE%201.0.xlsx) is hosted in their Github repository. The file in this repository has been normalized using OpenRefine.
