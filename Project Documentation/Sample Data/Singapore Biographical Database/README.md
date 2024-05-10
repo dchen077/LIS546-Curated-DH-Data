@@ -8,7 +8,7 @@ SBDB_Biographical_Information belongs to Singapore Biograhical Database. The ori
 
 - Standardized null values to be Nil for columns that contain links.
 
-- Fixed one column name translation mistake. Reference2_Complete_Index 参考文献2完整索引 is incorrectly inputted as Reference2_Short_Index.
+- Fixed one column name translation mistake. Reference2_Complete_Index 参考文献2完整索引 was incorrectly inputted as Reference2_Short_Index.
 
 - Minimized redundant reference titles in the index columns.
 
