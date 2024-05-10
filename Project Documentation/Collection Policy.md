@@ -16,12 +16,12 @@ Every dataset submitted must include:
 - Comprehensive Documentation: Must include detailed documentation that enables other researchers to understand the context, methodology, and potential applications of the data, facilitating the creation of structured metadata.
 3. Accepted and Non-Accepted Formats (Adapted from Cornell Digital Repository’s file format)
 Characteristics of Recommended Formats:
-●Complete and open documentation
-●Platform-independence
-●Non-proprietary
-●No embedded files, programs or scripts
-●No full or partial encryption
-●No password protection 
+1.Complete and open documentation
+2.Platform-independence
+3.Non-proprietary
+4.No embedded files, programs or scripts
+5.No full or partial encryption
+6.No password protection 
 Recommended Formats File Formats for Digital Content:
 [To be added]
 Non-Accepted Formats:
