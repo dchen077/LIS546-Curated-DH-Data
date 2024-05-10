@@ -74,13 +74,13 @@ Data Values
 
 Here’s how we will approach the normalization process:
 
-1.Standardize Column Names: We will implement a uniform naming convention across all datasets to avoid confusion and facilitate automated analysis. For instance, all date columns will be named in a consistent manner such as "date_published" across datasets, and all naming will adhere to a camelCase or snake_case format based on the most common usage in the existing datasets.
+1. Standardize Column Names: We will implement a uniform naming convention across all datasets to avoid confusion and facilitate automated analysis. For instance, all date columns will be named in a consistent manner such as "date_published" across datasets, and all naming will adhere to a camelCase or snake_case format based on the most common usage in the existing datasets.
 
-2.Develop a Data Dictionary: Each dataset will come with a detailed data dictionary that defines every column, the type of data it holds, and any standardized codes or abbreviations used. For example, if a dataset involves locations in Japan or China, the dictionary will detail the naming conventions used for places and any related codes.
+2. Develop a Data Dictionary: Each dataset will come with a detailed data dictionary that defines every column, the type of data it holds, and any standardized codes or abbreviations used. For example, if a dataset involves locations in Japan or China, the dictionary will detail the naming conventions used for places and any related codes.
 
-3.Standardize Values for Missing or Null Values: We will standardize the representation of missing or null values across datasets using a consistent format (such as Nil or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
+3. Standardize Values for Missing or Null Values: We will standardize the representation of missing or null values across datasets using a consistent format (such as Nil or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
 
-4.Labeling Values by Type: Each variable in the datasets will be clearly labeled by type (e.g., text, number, boolean, categorical). This labeling will help in data type validation and ensure that data manipulation functions are appropriately applied.
+4. Labeling Values by Type: Each variable in the datasets will be clearly labeled by type (e.g., text, number, boolean, categorical). This labeling will help in data type validation and ensure that data manipulation functions are appropriately applied.
 
 5. Multilingual dataset: Given many of our datasets are in multiple languages, we aim to standardize the language of the dataset and create appropriate metadata documentation. Issues related to translation and transliteration will carefully considered and reflected in our normalized datasets. 
 
