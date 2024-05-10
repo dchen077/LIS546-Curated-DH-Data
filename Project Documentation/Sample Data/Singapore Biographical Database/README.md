@@ -10,7 +10,7 @@ SBDB_Biographical_Information belongs to Singapore Biograhical Database. The ori
 
 - Fixed one column name translation mistake. Reference2_Complete_Index 参考文献2完整索引 is incorrectly inputted as Reference2_Short_Index.
 
-- Minimize redundant reference titles in the index columns.
+- Minimized redundant reference titles in the index columns.
 
 ***Below is a sample data dictionary that documented the column names in English and Chinese (Extracted from original dataset)***
 
