@@ -54,8 +54,6 @@ Images: TIFF (uncompressed) for archival quality and PNG for general use.
 Tabular Data: CSV for its simplicity and wide support in data tools.
 
 See our collection policy for additional information on accepted file formats. 
-​​
-## Our Policy for Transforming Data from One Format to Another:
 
 ### When data needs to be transformed from its original submission format to a preservation or user-friendly format, this will be done following clear guidelines to avoid data loss or corruption.
 
@@ -74,17 +72,17 @@ Data Values
 
 ### What steps should be taken to normalize the data? 
 
-> ***Add more language specific approaches***
-
 Here’s how we will approach the normalization process:
 
 1.Standardize Column Names: We will implement a uniform naming convention across all datasets to avoid confusion and facilitate automated analysis. For instance, all date columns will be named in a consistent manner such as "date_published" across datasets, and all naming will adhere to a camelCase or snake_case format based on the most common usage in the existing datasets.
 
 2.Develop a Data Dictionary: Each dataset will come with a detailed data dictionary that defines every column, the type of data it holds, and any standardized codes or abbreviations used. For example, if a dataset involves locations in Japan or China, the dictionary will detail the naming conventions used for places and any related codes.
 
-3.Standardize Values for Missing or Null Values: We will standardize the representation of missing or null values across datasets using a consistent format (such as NaN or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
+3.Standardize Values for Missing or Null Values: We will standardize the representation of missing or null values across datasets using a consistent format (such as Nil or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
 
 4.Labeling Values by Type: Each variable in the datasets will be clearly labeled by type (e.g., text, number, boolean, categorical). This labeling will help in data type validation and ensure that data manipulation functions are appropriately applied.
+
+5. Multilingual dataset: Given many of our datasets are in multiple languages, we aim to standardize the language of the dataset and create appropriate metadata documentation. Issues related to translation and transliteration will carefully considered and reflected in our normalized datasets. 
 
 ### Return to the principles of Tidy Data: How would you help ensure that these principles are met for data that you collect?
 
