@@ -1,1 +1,0 @@
-Cai_Peihuo_Landing_Page and Tag_Map_2 belong to [Bodies and Structures 2.0](https://bodiesandstructures.org/bodies-and-structures-2/index): Deep-Mapping Modern East Asian History by David Ambaras and Kate McDonald. Both files have been tested for successful validation in Oxygen. 
