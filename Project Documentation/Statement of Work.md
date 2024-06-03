@@ -7,8 +7,6 @@ The topic of your curation protocol (e.g. transportation data): research data
 The target audience for your protocol (e.g. who would use or consult your protocol):
 Researchers, students, and faculty who are working with Digital Humanities data and processing them to publish and contribute to their research in Japanese studies and Chinese studies.
 
-Write a three to five sentence statement about your collective goals for the protocol (e.g. what do you want to work on and learn about through the activity)
-
 Our collaborative goal is to curate a comprehensive catalog of digital humanities projects and papers focused on Japanese and Chinese studies, with a specific emphasis on evaluation and documentation of research data and metadata. We aim to create a resource that not only details best practices but also provides open access to these projects through public GitHub links. By evaluating, analyzing and documenting these datasets, we aim to enhance the accessibility and impact of digital humanities studies, Japanese and Chinese studies fields.We hope to discuss and highlight the nuances of documenting digital humanities data as we design and implement our protocol. 
 
 Provide a link to any relevant data sources you have identified.
