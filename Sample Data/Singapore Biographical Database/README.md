@@ -1,8 +1,13 @@
+# Singapore Biographical Database 
+
+## About
+
 Biographical_Information.xls belongs to Singapore Biograhical Database. The original [file](https://github.com/chsshgis/Singapore-Biographical-Database/blob/master/%E4%BA%BA%E7%89%A9%E6%95%B0%E6%8D%AE%201.0.xlsx) is hosted in their Github repository. The file in this repository has been normalized and standardized using OpenRefine.
 
-***Changes that have been done to this dataset include:***
+## Data and File Overview
+***Normalization changes that have been done to this dataset include:***
 
-- Separated Chinese and English translation into two columns.
+- Separated Chinese and English translations into two columns.
 
 - Standardized column names to be English only.
 
@@ -25,3 +30,5 @@ Biographical_Information.xls belongs to Singapore Biograhical Database. The orig
 | Hometown_in_Details | 细致祖籍地 |
 | Search_by_Place_of_Origin | 祖籍地检索 |
 | Search_by_Place_of_Birth | 出生地检索 |
+
+Last Updated: Jun. 2, 2024
