@@ -9,7 +9,7 @@ The [Singapore Biographical Database Project](http://shgis.nus.edu.sg/sbdb/) is 
 
 ## Data and File Overview
 
-The Biographical_Information.csv belongs to the Singapore Biographical Database. It contains the full list of the 200 prominent Singapore Chinese personalities and their related personalities. The file in this repository has been normalized and standardized using OpenRefine. The following section contains a data dictionary and an overview of how the dataset is normalized and standardized.  
+The __Biographical_Information.csv__ belongs to the Singapore Biographical Database. It contains the full list of the 200 prominent Singapore Chinese personalities and their related personalities. The file in this repository has been normalized and standardized using OpenRefine. The following section contains a data dictionary and an overview of how the dataset is normalized and standardized.  
 
 ### Sample Data Dictionary <!--this is incomplete but just to give an example of the type of data dictionary that will be included--DC-->
 |Field Name|Data Type|Descripton|Example|
