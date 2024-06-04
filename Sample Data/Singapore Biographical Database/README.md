@@ -2,9 +2,14 @@
 
 ## About
 
-Biographical_Information.xls belongs to Singapore Biographical Database. The original [file](https://github.com/chsshgis/Singapore-Biographical-Database/blob/master/%E4%BA%BA%E7%89%A9%E6%95%B0%E6%8D%AE%201.0.xlsx) is hosted in their Github repository. The file in this repository has been normalized and standardized using OpenRefine.
+The [Singapore Biographical Database Project](http://shgis.nus.edu.sg/sbdb/) is an ongoing collaborative project by the National University of Singapore, the National LIbrary Board of Singapore and the Singapore Federation of Chinese Clan Associations. The first phase of the project aims to extract data of 200 prominent Singapore Chinese personalities and construct a data visualization of their social network with related personalities.The original file is hosted in their [GitHub repository]((https://github.com/chsshgis/Singapore-Biographical-Database/blob/master/%E4%BA%BA%E7%89%A9%E6%95%B0%E6%8D%AE%201.0.xlsx) ). 
+
+### Existing Project Data Lincese
+CC BY-SA 4.0 
 
 ## Data and File Overview
+
+The Biographical_Information.csv belongs to the Singapore Biographical Database. It contains the full list of the 200 prominent Singapore Chinese personalities and their related personalities. The file in this repository has been normalized and standardized using OpenRefine. The following section contains a data dictionary and an overview of how the dataset is normalized and standardized.  
 
 ### Sample Data Dictionary <!--this is incomplete but just to give an exmaple of the type of data dictionary that will be included--DC-->
 |Field Name|Data Type|Descripton|Example|
