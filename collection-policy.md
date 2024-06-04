@@ -1,14 +1,14 @@
-Collection Policy for Best Practices of DH in Chinese and Japanese Studies Project
+# Collection Policy for Best Practices of DH in Chinese and Japanese Studies Project
 
-1. Relevance Criteria for Data Collection
+## 1. Relevance Criteria for Data Collection
 
-Inclusion Criteria:
+### Inclusion Criteria:
 
 - Thematic and Temporal Scope: Data must be related to scholarly contributions on modern and contemporary (post-1900) history, literature, art history, religion, society and thought of Chinese and Japanese studies. 
 
 - Academic Value: Data should offer potential for scholarly research, teaching, or broader dissemination within the field of digital humanities.
 
-Exclusion Criteria:
+### Exclusion Criteria:
 
 - Out-of-Scope Themes: Data and its associated research focusing on periods before 1900 or unrelated to thematic and temporal scope. 
 
@@ -16,9 +16,9 @@ Exclusion Criteria:
 
 - Legal and Ethical Concerns: Data containing sensitive information without proper anonymization, or lacking necessary permissions or rights for sharing.
 
-2. Minimum Viable Package Requirements (adapted from DRUM policy)
+## 2. Minimum Viable Package Requirements (adapted from DRUM policy)
 
-Every dataset submitted must include:
+### Every dataset submitted must include:
 
 - Clear Licensing: Must be explicitly stated, favoring open licenses like CC-BY to enable sharing and reuse.
 
@@ -26,28 +26,31 @@ Every dataset submitted must include:
 
 - Comprehensive Documentation: Must include detailed documentation that enables other researchers to understand the context, methodology, and potential applications of the data, facilitating the creation of structured metadata.
 
-3. Accepted and Non-Accepted Formats (Adapted from Cornell Digital Repository’s file format)
+## 3. Accepted and Non-Accepted Formats
 
-Characteristics of Recommended Formats:
+(Adapted from [Cornell Digital Repository’s file formats](https://guides.library.cornell.edu/ecommons/formats))
 
-1.Complete and open documentation
+### Characteristics of Recommended Formats:
 
-2.Platform-independence
+- Complete and open documentation
 
-3.Non-proprietary
+- Platform-independence
 
-4.No embedded files, programs or scripts
+- Non-proprietary
 
-5.No full or partial encryption
-6.No password protection
+- No embedded files, programs or scripts
+
+- No full or partial encryption
+
+- No password protection
   
-See Recommended File Formats for More Details.
+**See the Recommended File Formats document for More Details.**
 
-4. Size Limitations (Adapted from Cornell Content Policy)
+## 4. Size Limitations (Adapted from Cornell Content Policy)
 
 - Maximum Size: Each individual file can be up to 5 GB. For files larger than this limit, submitters must consult with repository administrators to discuss feasibility, potential segmentation, or special accommodations. 
 
-5. Preservation Guarantees
+## Preservation Guarantees
 
 - Digital Preservation Practices: The repository will ensure that all accepted data formats are preserved using the best practices in digital preservation, which includes:
 
@@ -57,19 +60,17 @@ See Recommended File Formats for More Details.
 
   - Longevity Commitment: A minimum of 10 years of data preservation post-submission, with reviews to extend this period as necessary.
 
--Preservation by Format: Specific strategies will be applied based on the type of data:
+- Preservation by Format: Specific strategies will be applied based on the type of data:
 
   - Textual and Tabular Data: Preserved in their native or converted open formats with checksum verification and redundancy.
   
   - Images: Stored in high-quality formats with metadata detailing preservation status and history.
 
-DH Categories and Their Importance (adapted from a submission guideline in East Asian studies)
+## DH Categories and Their Importance (adapted from a submission guideline in East Asian studies)
 
 To enhance the repository's usability, submissions can be categorized by the digital methods used and the project’s content. These broad categories simplify data organization and retrieval, helping users find relevant resources easily. Contributors are encouraged to select multiple categories to accurately reflect their project's scope and methodology. We invite proposals for new categories to ensure our classifications encourage innovation and inclusivity.
 
-Explanation of Categories
-
-DH Methods and Scope
+### Explanation of Categories and DH Methods and Scope
 
 1. Text Mining:
 
