@@ -26,8 +26,12 @@ Exceptions to the standard licensing terms may be granted on a case-by-case basi
 
 This licensing framework is designed to balance the need for open access to digital humanities data with the responsibility to protect the rights of data creators and the sensitivities of the content related to Chinese and Japanese studies. By being explicit about the expectations of how the data can be used and repurposed, we aim to foster an environment of respect and responsibility amongst users of our data.
 
+### Dataset with Existing Licenses
+
+Datasets with existing data licenses, namely CC0 and CCBY4.0, will retain their licenses as they share the same data licenses with this repository. For datasets that include a small amount of data that are under more restrictive licensing, we will be in contact with the depositor and discuss how to best preserve and manage their datasets on a case-by-case basis. We do not accept datasets that include a large amount of data that are under restrictive data license. 
+
  ## Acknowledgement
- We recognize that humanities data come in a wide variety of format, from Jupyter ntoebooks to digitized artworks. Researchers may be able to obtain permission from appropriate GLAM institutions, such as museums and archives, for research purposes. However, they may not be the copyright owner of these data. We encourage researchers to check with the original institution and engage future stakeholders in an open research environment. 
+ We recognize that humanities data come in a wide variety of formats, from Jupyter notebooks to digitized artworks. Researchers may be able to obtain permission from appropriate GLAM institutions, such as museums and archives, for research purposes. However, they may not be the copyright owner of these data. We encourage researchers to check with the original institution and engage future stakeholders in an open research environment. 
 
 Further Reading: 
  
