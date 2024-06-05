@@ -37,6 +37,8 @@ We will create additional metadata about the origin of the data, the methodology
 
 We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. Specifically, we will include documentation on the depositor's statement on the maintenance of the dataset and scholarship and publications that have utilized or referenced the dataset. 
 
+We recommend the depositor provide these sections in their project READMEs, including an About section, a link to existing data licenses, information on data and files (i.e. data dictionaries), the date for when the dataset was last updated, and other sections as needed. 
+
 ## Data Transformation
 
 File / Format
