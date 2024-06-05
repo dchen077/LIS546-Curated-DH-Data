@@ -5,12 +5,12 @@ Our project commits to the principles of open data, ensuring that the datasets w
 ### Creative Commons Attribution 4.0 International (CC BY 4.0):
 
 This license allows users to copy, distribute, display, and perform the work and derivative works based upon it, but only if they give the author or licensor the credits in the manner specified. This choice is informed by its flexibility and the ease with which it can be integrated into a variety of projects, providing the necessary protection for our data creators while encouraging wide dissemination and use of the data. 
-More about CC BY 4.0 can be found on the Creative Commons website.
+More about CC BY 4.0 can be found on [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ### Public Domain Dedication (CC0):
 
 For datasets where copyright or database protection is not applicable, or where owners wish to waive all their rights, we will use CC0. CC0 is particularly suitable for datasets compiled from sources that are in the public domain or for basic data that we believe should be freely available without any restrictions.
-Learn more about CC0 from [Creative Commons CC0](https://creativecommons.org/licenses/by/4.0/).
+Learn more about CC0 from [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Special Considerations
 
