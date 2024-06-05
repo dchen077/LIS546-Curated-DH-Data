@@ -1,4 +1,4 @@
-# Project Name: Curated Digital Humanities data in Japanese and Chinese studies
+## Project Name: Curated Digital Humanities data in Japanese and Chinese studies
 
 ### The topic of your curation protocol (e.g. transportation data): 
 
