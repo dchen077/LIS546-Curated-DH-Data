@@ -5,11 +5,16 @@
 This repository serves as a central hub for the documentation and collaborative materials related to our LIS546 project on modern and contemporary Chinese and Japanese digital humanities studies. This project is undertaken by Luming Zhang and Doreen Chen, focusing on curating and developing a comprehensive digital repository that facilitates academic research, teaching, and public dissemination of digital humanities work specific to China and Japan post-1900.
 
 ## Contents
-
+### Our Documentation folder includes:
 - **Statement of Work**: Outlines the objectives, scope, and responsibilities involved in the project.
 - **User Stories and Use Cases**: Details the specific user stories and use cases that guide the development and features of our repository.
 - **Collection Development Policy**: Describes the criteria for data inclusion, the types of data we accept, the formats supported, and our preservation commitments.
 - **Additional Documentation**: Includes any other relevant materials that contribute to the project or are necessary for understanding and participating in the development.
+### Our Metadata Schema folder includes: 
+- **Metadata Elements**: details the metadata elements we used.
+- **Metadata Application Profile**: An example of applying our metadata application profile to a dataset.
+### Our Sample Data folder includes:
+- **Three sample datasets** and their corresponding documentation.  
 
 ## Project Goals
 
