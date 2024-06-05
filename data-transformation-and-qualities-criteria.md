@@ -1,6 +1,4 @@
-# Data Transformation and Qualities Criteria
-
-Group Member: Doreen, Luming
+# Data Transformation and Qualities Criteria Q&A
 
 ## Data Transfer
 
@@ -8,22 +6,22 @@ Group Member: Doreen, Luming
 
 Users and curators will submit their digital humanities projects via our GitHub link.This approach allows contributors to submit projects by pushing their repositories to our designated GitHub organization page, where they can be reviewed and integrated into our broader collection. Upon submission, contributors will be required to fill out a detailed survey about their project. This survey will include questions about the content, scope, relevance to modern and contemporary Chinese and Japanese studies, and any sensitive or confidential information contained within their data. 
 
-### What kind of authenticity checks would you perform to make sure this data is what it purports to be? Does this include any virus scanning tools?
+### What kind of authenticity checks would you perform to make sure this data is what it purports to be? Does this include any virus-scanning tools?
 
 Upon receipt of data from GitHub, several steps will be taken to verify its authenticity and ensure its safety and relevance:
 
-Virus Scanning: With possible funding, we will perform a virus scan on all submitted files using robust antivirus software such as McAfee or Norton Antivirus. This is crucial to prevent the introduction of malware into our repository.
+__Virus Scanning__: With possible funding, we will perform a virus scan on all submitted files using robust antivirus software such as McAfee or Norton Antivirus. This is crucial to prevent the introduction of malware into our repository.
 
-File Integrity Checks: We will rely on GitHub to maintain the integrity of files through version control, and ensure no 
+__File Integrity Checks__: We will rely on GitHub to maintain the integrity of files through version control, and ensure no 
 corruption has occurred during the download process.
 
-Content Verification Survey: Contributors will complete a detailed survey that includes verification of the authenticity and appropriateness of the content. This survey will ask specific questions about the sources of their data, any transformations it has undergone, and how it aligns with the project's focus on Chinese and Japanese digital humanities.
+__Content Verification Survey__: Contributors will complete a detailed survey that includes verification of the authenticity and appropriateness of the content. This survey will ask specific questions about the sources of their data, any transformations it has undergone, and how it aligns with the project's focus on Chinese and Japanese digital humanities.
 
 ### How will you identify confidential, sensitive, or private information contained in this data? (in other words, What constitutes private or sensitive information? 
 
 Considering the nuanced nature of digital humanities research, especially in fields involving modern historical studies of China and Japan, automated tools may not catch all sensitive content, such as culturally specific identifiers. Thus, each dataset will also undergo a manual review by team members trained in identifying sensitive information within the context of Chinese and Japanese studies.
 
-### What is your policy for removing / redacting / protecting this kind of content?
+### What is your policy for removing/redacting/protecting this kind of content?
 
 All actions taken to manage sensitive data (redaction, restriction, encryption) will be clearly documented. This documentation will be accessible to users, providing transparency about how data has been altered from its original form and the rationale behind these changes. Furthermore, users can choose to redact and remove their deposited data without disclosing their reason. However, as mentioned earlier, the documentation of the removal of any part or the entirety of the data will be documented and openly available. 
 
@@ -37,7 +35,7 @@ We will create additional metadata about the origin of the data, the methodology
 
 ### Is there any additional documentation that should be created in order to meaningfully preserve or use this data?
 
-We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. Specifically, we will include documentation on the depositor's statement on the maintenance of the dataset and scholarship and publication that have utilized or referenced the datast. 
+We will include documents about the storage, archiving, and preservation measures taken to ensure the long-term usability of the data. Specifically, we will include documentation on the depositor's statement on the maintenance of the dataset and scholarship and publications that have utilized or referenced the dataset. 
 
 ## Data Transformation
 
@@ -47,15 +45,15 @@ File / Format
 
 We will store data in open, non-proprietary formats such as:
 
-Text Data: Plain text (UTF-8 encoding), XML (with included or accessible schema), and PDF/A for archival purposes.
+__Text Data__: Plain text (UTF-8 encoding), XML (with included or accessible schema), and PDF/A for archival purposes.
 
-Images: TIFF (uncompressed) for archival quality and PNG for general use.
+__Images__: TIFF (uncompressed) for archival quality and PNG for general use.
 
-Tabular Data: CSV for its simplicity and wide support in data tools.
+__Tabular Data__: CSV for its simplicity and wide support in data tools.
 
-See our collection policy for additional information on accepted file formats. 
+See our __recommend_file_format.md__ for additional information on accepted file formats. 
 
-### When data needs to be transformed from its original submission format to a preservation or user-friendly format, this will be done following clear guidelines to avoid data loss or corruption.
+When data needs to be transformed from its original submission format to a preservation or user-friendly format, this will be done following clear guidelines to avoid data loss or corruption.
 
 Transformation rules include validation of the original format, conversion using reliable tools (ensuring no loss of information), and verification post-conversion to ensure integrity.
 
@@ -74,16 +72,31 @@ Data Values
 
 Here’s how we will approach the normalization process:
 
-1. Standardize Column Names: We will implement a uniform naming convention across all datasets to avoid confusion and facilitate automated analysis. For instance, all date columns will be named in a consistent manner such as "date_published" across datasets, and all naming will adhere to a camelCase or snake_case format based on the most common usage in the existing datasets.
+__Standardize Column Names__: We will implement a uniform naming convention across all datasets to avoid confusion and facilitate automated analysis. For instance, all date columns will be named in a consistent manner such as "date_published" across datasets, and all naming will adhere to a camelCase or snake_case format based on the most common usage in the existing datasets.
 
-2. Develop a Data Dictionary: Each dataset will come with a detailed data dictionary that defines every column, the type of data it holds, and any standardized codes or abbreviations used. For example, if a dataset involves locations in Japan or China, the dictionary will detail the naming conventions used for places and any related codes.
+__Develop a Data Dictionary__: Each dataset will come with a detailed data dictionary that defines every column, the type of data it holds, and any standardized codes or abbreviations used. For example, if a dataset involves locations in Japan or China, the dictionary will detail the naming conventions used for places and any related codes.
 
-3. Standardize Values for Missing or Null Values: We will standardize the representation of missing or null values across datasets using a consistent format (such as Nil or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
+  On __Data Dicitonary__ of a CSV file, we will make sure the depositor includes information on every field name, type of data, description of the field name, and an example. See the table below for example.
+|Field Name|Type of Data|Descriptoin|Example|
+|---|---|---|---|
+|ID|Integer|Unique Identifier|001|
 
-4. Labeling Values by Type: Each variable in the datasets will be clearly labeled by type (e.g., text, number, boolean, categorical). This labeling will help in data type validation and ensure that data manipulation functions are appropriately applied.
+For __Data Dictionary__ of other files, the depositor will provide relevant information that describes every element of the dataset, including naming conventions and relationships between files.
 
-5. Multilingual dataset: Given many of our datasets are in multiple languages, we aim to standardize the language of the dataset and create appropriate metadata documentation. Issues related to translation and transliteration will carefully considered and reflected in our normalized datasets. 
+__Standardize Values for Missing or Null Values__: We will standardize the representation of missing or null values across datasets using a consistent format (such as Nil or null), which will be clearly documented in the data dictionary. This ensures that users understand what a missing value represents in any dataset they work with.
 
-### Return to the principles of Tidy Data: How would you help ensure that these principles are met for data that you collect?
+__Labeling Values by Type__: Each variable in the datasets will be clearly labeled by type (e.g., text, number, boolean, categorical). This labeling will help in data type validation and ensure that data manipulation functions are appropriately applied.
+
+__Multilingual dataset__: Given many of our datasets are in multiple languages, we aim to standardize the language of the dataset and create appropriate metadata documentation. Issues related to translation and transliteration will be carefully considered and reflected in our normalized datasets. 
+
+### How would you help ensure that these principles are met for data that you collect?
 
 Clear guidelines on how to format data according to tidy data principles will be provided on the repository’s website. Contributors will be encouraged to use these guidelines when preparing their data for submission. So, submissions that fail to meet tidy data standards will go through a review process where the contributor is asked to make necessary adjustments. If the contributor is unable to do so, our curatorial team will assist in reformatting the data according to tidy data principles.
+
+## Acknowledgement
+
+While our goal is to normalize data so it is machine and human-readable, we will also communicate with the depositor to ensure the normalization process does not sacrifice the data itself for structured order. We do not condone tidying data for the sake of tidying data. If a depositor finds the normalization process takes away the diversity of the dataset and causes the dataset to lose any value, we will respect their request and keep it as is. 
+
+Further Reading: 
+
+Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 279–92. University of Minnesota Press, 2019. https://doi.org/10.5749/j.ctvg251hk.26.
