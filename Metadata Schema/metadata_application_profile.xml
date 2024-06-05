@@ -22,7 +22,7 @@
             <encodingScheme>string</encodingScheme>
             <rulesForContent>Name of the individual or organization primarily responsible for creating the dataset.</rulesForContent>
             <example>
-                <dc:creator>Dr. Hiroshi Tanaka</dc:creator>
+                <dc:creator>Hiroshi, Tanaka</dc:creator>
             </example>
         </element>
         
